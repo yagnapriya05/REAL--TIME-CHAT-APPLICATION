@@ -36,6 +36,7 @@ Express.js
 Socket.IO
 
 HTML/JavaScript
-OUTPUT:
 
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/73d7c14a-0a67-4d40-8f2b-75570dc57453)
 
