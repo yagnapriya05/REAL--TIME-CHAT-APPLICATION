@@ -10,6 +10,8 @@ DOMAIN: FRONTEND WEB DEVELOPMENT
 DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTHOSH
+
+
 💬 Real-Time Chat Application
 This is a simple real-time chat application built with Node.js, Express, and Socket.IO. It allows users to send and receive messages instantly in a shared chat room. The project demonstrates the use of WebSockets to enable real-time, bidirectional communication between clients and the server.
 
